@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="">
+	<ID>[IDENTIFIANT]</ID> <!-- 32 c. max selon encoding ci-dessus -->
+	<LIBELLE>[LIBELLE]</LIBELLE> <!-- 250 c. max selon encoding ci-dessus -->
+	<DATE_CONSERVATION>[DATE_CONSERVATION]</DATE_CONSERVATION> <!-- Date YYYY-MM-DD utilisee pour le purge ARCSYS a xx mois -->

@@ -1,0 +1,7 @@
+0;Fin normale de FTPSec
+1;Le nombre d arguments est incorrect ou les arguments sont incorrects
+2;Les repertoires ou les fichiers de la machine source ou destination sont inexistants
+3;Probleme de connexion a la machine distante : le compte ou mot de passe specifie est incorrect
+4;Probleme de connexion a la machine distante : le nom de machine specifie est incorrect
+5;Le transfert d au moins un des fichiers a recuperer est incorrect (probleme de reseau ou format du fichier CheckSum)
+6;Au moins un fichier CheckSum est manquant lors de la recuperation de fichiers

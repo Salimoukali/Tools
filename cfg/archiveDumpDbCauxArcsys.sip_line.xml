@@ -1,0 +1,4 @@
+	<FICHIER>
+		<NOM>[NOM_FICHIER]</NOM> <!-- Nom du fichier depose dans le repertoire DEPOT/ (selon encoding XML ci-dessus) -->
+		<EMPREINTE type="SHA-256">[EMPREINTE_FICHIER]</EMPREINTE> <!-- CheckSum selon le programme sha256sum -->
+	</FICHIER>
